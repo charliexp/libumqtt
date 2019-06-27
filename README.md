@@ -42,7 +42,7 @@ And provide Lua-binding.
 
 # Install dependent packages
 
-    sudo apt int libev-dev libssl-dev liblua5.2-dev
+    sudo apt install libev-dev libssl-dev liblua5.2-dev
 
 # Build and install
 
