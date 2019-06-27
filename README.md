@@ -49,6 +49,7 @@ And provide Lua-binding.
 	git clone --recursive https://github.com/zhaojh329/libumqtt.git
 	cd libumqtt
 	mkdir build && cd build
+	cmake ..
 	make && sudo make install
 
 # Contributing
